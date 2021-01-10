@@ -10,4 +10,6 @@ public class controller {
     public String home(){
         return "index.html";
     }
+
+
 }
